@@ -48,3 +48,6 @@
     
 2. API Authentication: 
     Implemented using Laravel Sanctum for API token authentication.
+3. Access the Swagger UI:
+    Visit http://domain name/api/documentation in your browser. This will display the Swagger UI with your API         
+    documentation.
